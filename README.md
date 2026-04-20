@@ -1,14 +1,14 @@
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════════╗
-║   D A T A  ·  S C I E N C E  ·  &  ·  M A T H E M A T I C S   ║
-╚═══════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║   D A T A  ·  S C I E N C E  · A N A L Y S I S  ·  &  ·  M A C H I N E  L E A R N I N G  ·  &  ·  AI   ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 # Hi, I'm Abel Atares 👋
 
-### Data Scientist · ML Engineer · Mathematician
+### Data Scientist & Analyst · ML Engineer · Mathematician
 
 **Dublin, Ireland 🇮🇪 · EU Citizen 🇪🇺**
 
