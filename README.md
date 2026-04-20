@@ -8,9 +8,9 @@
 
 # Hi, I'm Abel Atares 👋
 
-### Data Scientist · ML Engineer · Mathematician
+### Data Analyst & Data Scientist · ML Engineer · Mathematician
 
-**Dublin, Ireland 🇮🇪 · EU Citizen 🇪🇺**
+**Dublin, Ireland · EU Citizen **
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abelatares)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abelatares@gmail.com)
