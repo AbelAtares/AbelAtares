@@ -105,7 +105,7 @@ class AbelAtares:
 
 - 🥇 **Honorable Mention** — International Mathematics Competition (University College London)
 - 🌍 **International Olympiads** — IMC, Iberoamerican Mathematics Olympiad, BarcelonaTech Competition
-- 🎓 **Erasmus+ Scholar** — University of Duzce, Türkiye (2019–2020)
+- 🎓 **Erasmus+** — University of Duzce, Türkiye (2019–2020)
 - 📐 **Congress Assistant** — Biennial Congress of the Royal Spanish Mathematical Society
 
 ---
