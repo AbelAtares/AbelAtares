@@ -1,17 +1,18 @@
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║   D A T A  ·  S C I E N C E  ·  &  ·  M A T H E M A T I C S   ║
-╚═══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════════════╗
+║   D A T A  A N A L Y S I S   ·   D A T A  S C I E N C E   ·   M A C H I N E  L E A R N I N G   ·   A I   ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
 # Hi, I'm Abel Atares 👋
 
-### Data Scientist · ML Engineer · Mathematician
+### Data Specialist · ML Engineer · Mathematician
 
-**Dublin, Ireland 🇮🇪 · EU Citizen 🇪🇺**
+**Dublin, Ireland · EU Citizen**
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://abelatares.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abelatares)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abelatares@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/abelatares?style=for-the-badge&color=171515&logo=github)](https://github.com/abelatares)
