@@ -28,11 +28,10 @@
 class AbelAtares:
     def __init__(self):
         self.name         = "Abel Atares de Sus"
-        self.role         = ["Data Scientist", "ML Engineer", "Data Analyst"]
-        self.location     = "Dublin, Ireland 🇮🇪"
+        self.role         = ["Data Specialist", "Data Scientist", "Data Analyst", "ML Engineer", "AI Engineer"]
+        self.location     = "Dublin, Ireland"
         self.experience   = "5+ years"
-        self.education    = "BSc Honours in Mathematics — University of Zaragoza"
-        self.erasmus      = "University of Duzce, Türkiye 🇹🇷 (2019–2020)"
+        self.education    = ["BSc Honours in Mathematics — University of Zaragoza", "Erasmus+ - Bachelor’s Degree in Mathematics - University of Duzce"]
         self.languages    = {"Spanish": "Native", "English": "Fluent", "French": "Basic"}
         self.passion      = "Turning raw data into decisions that matter"
 
@@ -40,7 +39,7 @@ class AbelAtares:
         return [
             "📍 Based in Dublin, open to global remote opportunities",
             "📊 Building data pipelines, ML models & dashboards",
-            "🏆 Honorable Mention — International Mathematics Competition (UCL)",
+            "🏆 Honorable Mention — International Mathematics Competition (IMC)",
         ]
 ```
 
