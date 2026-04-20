@@ -1,16 +1,16 @@
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
+╔═══════════════════════════════════════════════════════════╗
 ║   D A T A  ·  S C I E N C E  ·  &  ·  M A T H E M A T I C S   ║
-╚═══════════════════════════════════════════════════════════════╝
+╚═══════════════════════════════════════════════════════════╝
 ```
 
 # Hi, I'm Abel Atares 👋
 
-### Data Analyst & Data Scientist · ML Engineer · Mathematician
+### Data Scientist · ML Engineer · Mathematician
 
-**Dublin, Ireland · EU Citizen **
+**Dublin, Ireland 🇮🇪 · EU Citizen 🇪🇺**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abelatares)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abelatares@gmail.com)
