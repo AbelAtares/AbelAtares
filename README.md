@@ -62,7 +62,7 @@ class AbelAtares:
 
 ## 🛠️ Tech Stack
 
-### Languages & Core Libraries
+### Languages & Key Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
@@ -106,7 +106,7 @@ class AbelAtares:
 - 🥇 **Honorable Mention** — International Mathematics Competition (University College London)
 - 🌍 **International Olympiads** — IMC, Iberoamerican Mathematics Olympiad, BarcelonaTech Competition
 - 🎓 **Erasmus+ Scholar** — University of Duzce, Türkiye (2019–2020)
-- 📐 **Congress Speaker** — Biennial Congress of the Royal Spanish Mathematical Society
+- 📐 **Congress Assistant** — Biennial Congress of the Royal Spanish Mathematical Society
 
 ---
 
@@ -128,9 +128,9 @@ class AbelAtares:
 
 ```
 Finance & Banking     ████████████  CaixaBank · Deloitte
-AI & Data Engineering ██████████    Outlier (AI model evaluation)
+AI & Data Engineering ██████████    Outlier
 Healthcare            ████████      Bosphorus Bariatrics
-Consulting            ██████        Deloitte (Workday integrations)
+Consulting            ██████        Deloitte
 Education             ████          IES Mor de Fuentes · Agora
 ```
 
@@ -145,6 +145,6 @@ Education             ████          IES Mor de Fuentes · Agora
 
 ---
 
-*"Without data, you're just another person with an opinion."* — W. Edwards Deming
+*"If you want to change the world, change yourself."* — Javier Ibarra (Kase-O)
 
 </div>
