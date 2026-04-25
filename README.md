@@ -45,7 +45,7 @@ class AbelAtares:
 
 ---
 
-## 💼 Work Experience
+<!-- ## 💼 Work Experience
 
 | Period | Role | Company | Location |
 |--------|------|---------|----------|
@@ -58,7 +58,7 @@ class AbelAtares:
 
 > 🔑 **Key achievement:** Reduced reporting processing time by **55%** at CaixaBank through workflow optimization.
 
----
+--- -->
 
 ## 🛠️ Tech Stack
 
