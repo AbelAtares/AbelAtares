@@ -89,7 +89,7 @@ class AbelAtares:
 
 ---
 
-## 🎓 Certifications
+<!-- ## 🎓 Certifications
 
 | Certification | Institution | Domain |
 |---------------|-------------|--------|
@@ -108,7 +108,7 @@ class AbelAtares:
 - 🎓 **Erasmus+** — University of Duzce, Türkiye (2019–2020)
 - 📐 **Congress Assistant** — Biennial Congress of the Royal Spanish Mathematical Society
 
----
+--- -->
 
 ## 📊 GitHub Stats
 
