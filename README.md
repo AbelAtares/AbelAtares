@@ -28,7 +28,7 @@
 class AbelAtares:
     def __init__(self):
         self.name         = "Abel Atares de Sus"
-        self.role         = ["Data Specialist", "Data Scientist", "Data Analyst", "ML Engineer", "AI Engineer"]
+        self.role         = ["Data Specialist", "Data Scientist", "Data Analyst", "ML - Engineer", "AI - Engineer"]
         self.location     = "Dublin, Ireland"
         self.experience   = "5+ years"
         self.education    = ["BSc Honours in Mathematics — University of Zaragoza", "Erasmus+ - Bachelor’s Degree in Mathematics - University of Duzce"]
