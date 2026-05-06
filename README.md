@@ -112,15 +112,13 @@ class AbelAtares:
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abelatares&theme=tokyonight&no-frame=true&row=2&column=4" />
+</p>
 
-![Abel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abelatares&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abelatares&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abelatares&theme=tokyonight&hide_border=true)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=abelatares&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
 
